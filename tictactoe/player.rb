@@ -13,4 +13,5 @@ class Player
     column = gets.chomp.to_i
     return row-1,column-1
   end
+  
 end
